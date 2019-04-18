@@ -1,4 +1,4 @@
-# MarkToolForParkingLotPoint
+# MarkToolForPalmprintPoint
 This is MATLAB GUI tool for marking finger-gap-point or something like that. The latest version can be found at here: https://github.com/Shelro/MarkToolForPalmprintPoint
 
 ### Requirement
