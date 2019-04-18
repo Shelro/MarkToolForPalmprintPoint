@@ -16,7 +16,7 @@ After you have downloaded the source code, unzip it in a folder.
 The program will read images of corresponding format in a sequence and the total number of images will be shown below the button. The first image will be loaded automatically to the axes. The sequence and name of it will be shown below the axes.
 
 #### 2. Mark Marks
-After you have loaded an image, find parking lot points.
+After you have loaded an image, find finger-gap-point points.
 1. Click left mouse button on an image to mark marks.
 2. Click right mouse button on a mark to delete it.
 3. After marking marks, click "Save" button or "E" on the keyboard to save the marks to file.
@@ -27,7 +27,7 @@ The mark consists of a point, a circle, and an index number at the right bottom 
 After you have marked your marks, fill the table on the right to generate local coordinate.
 1. Find the finger-gap-point A between the index finger and the middle finger, the finger-gap-point B between the ring finger and the little finger.
 2. For the left hand, A→B is the direction of x-Axis, so fill the index number of point A in the first column and the index number of point B in second column in a row. For the right hand, B→A s the direction of x-Axis, so fill the index number of point B in the first column and the index number of point A in second column in a row.
-3. Click "Save" button or "E" on the keyboard to save the parking slots to file and the slots should be drawn on the image.
+3. Click "Save" button or "E" on the keyboard to save the local coordinate to file and the slots should be drawn on the image.
 
 #### Advanced Functionality
 1. Press "F" key on the keyboard to magnify to a nearby region of mouse position.
