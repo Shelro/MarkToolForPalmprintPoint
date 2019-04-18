@@ -232,7 +232,7 @@ else
         slotsCell{16,5} = [];
         %slotsCell(:,3) = {1};
         %slotsCell(:,4) = {90};
-    	set(handles.SlotTable, 'data', slotsCell(1:15,1:4));
+    	set(handles.SlotTable, 'data', slotsCell(1:4,1:2));
         handles = drawSlots(handles, data.slots, handles.marks);
         for i = 1:size(handles.marks, 1)
             handles = plotMarks(handles, i);
