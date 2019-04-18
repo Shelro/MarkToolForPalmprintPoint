@@ -29,8 +29,6 @@ After you have marked your marks, fill the table on the right to generate local 
 2. For the left hand, A→B is the direction of x-Axis, so fill the index number of point A in the first column and the index number of point B in second column in a row. For the right hand, B→A s the direction of x-Axis, so fill the index number of point B in the first column and the index number of point A in second column in a row.
 3. Click "Save" button or "E" on the keyboard to save the parking slots to file and the slots should be drawn on the image.
 
-The following images show three types of parking slot. For each image, the parking lot point on the left hand side should be the first point you enter in the table. The parking lot point on the right hand side should be the second point you enter in the image.
-
 #### Advanced Functionality
 1. Press "F" key on the keyboard to magnify to a nearby region of mouse position.
 2. Click left mouse button and drag a mark to adjust its position.
