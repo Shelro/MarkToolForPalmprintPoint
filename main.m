@@ -229,10 +229,10 @@ else
             data.slots = [];
         end
         slotsCell = num2cell(data.slots);
-        slotsCell{16,5} = [];
+        slotsCell{4,4} = [];
         %slotsCell(:,3) = {1};
         %slotsCell(:,4) = {90};
-    	set(handles.SlotTable, 'data', slotsCell(1:4,1:2));
+    	set(handles.SlotTable, 'data', slotsCell(1:4,1:4));
         handles = drawSlots(handles, data.slots, handles.marks);
         for i = 1:size(handles.marks, 1)
             handles = plotMarks(handles, i);

@@ -25,8 +25,7 @@ The mark consists of a point, a circle, and an index number at the right bottom 
 
 #### 3. Generate local coordinate
 After you have marked your marks, fill the table on the right to generate local coordinate.
-1. Find the finger-gap-point A between the index finger and the middle finger, the finger-gap-point B between the ring finger and the little finger.
-2. For the left hand, A→B is the direction of x-Axis, so fill the index number of point A in the first column and the index number of point B in second column in a row. For the right hand, B→A s the direction of x-Axis, so fill the index number of point B in the first column and the index number of point A in second column in a row.
+1. Input the points of the double-finger-gap from left to right. The first and second points are the finger-gap-points contained in the left double-finger-gap, and the third and fourth points are the finger-gap-points contained in the right double-finger-gap.
 3. Click "Save" button or "E" on the keyboard to save the local coordinate to file and the slots should be drawn on the image.
 
 #### Advanced Functionality
